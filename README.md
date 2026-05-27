@@ -33,7 +33,7 @@ Ze względu na to, że chcemy mieć jasno zdefiniowane prawa autorskie dla każd
 
 ### Pomocy! Nie wiem co to branche, ja chcę tylko dodać grafikę. T^T
 
-Nie martw się, jeśli to Twoja pierwsza styczność z repozytorium kodu źródłowego! Skontaktuj się z `CODEOWNERS.md`, którzy przeprowadzą Cię krok po kroku jak dodać Twoją grafikę bazy. Zerknij także na [How to create a pull request in 4 min | GitHub for Beginners](https://www.youtube.com/watch?v=nCKdihvneS0) - Forge ma trochę inny interfejs, ale wygląda bardzo podobnie.
+Nie martw się, jeśli to Twoja pierwsza styczność z repozytorium kodu źródłowego! Skontaktuj się z `CODEOWNERS.md`, którzy przeprowadzą Cię krok po kroku jak dodać Twoją grafikę bazy. Zerknij także na [How to create a pull request in 4 min | GitHub for Beginners](https://www.youtube.com/watch?v=nCKdihvneS0).
 
 ## Wskazówki dla autorów od autorów
 
