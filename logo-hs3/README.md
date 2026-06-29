@@ -32,3 +32,7 @@ Kody kolorów (HEX):
 
 - Wybrać logo w wersji kolorystycznej, która zapewnia jak największy kontrast z tłem
 - Nie zmieniać proporcji logo
+
+## Zasoby
+
+- [ttsky-hs3logo-ieee](https://github.com/magnetoField/ttsky-hs3logo-ieee) - VGA logo display dla Hackerspace Trójmiasto, wygenerowany całkowicie po stronie hardware używając Verilog
