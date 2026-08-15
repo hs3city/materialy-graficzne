@@ -21,7 +21,7 @@ Ze względu na to, że chcemy mieć jasno zdefiniowane prawa autorskie dla każd
 ## Foldery
 
 - logo-hs3 - tutaj znajdziesz aktualne logo we wszystkich dostępnych wariantach
-- plakaty - tutaj znajdziesz plakaty stworzone na potrzeby wydarzeń Hackerspace Trójmiasto
+- wydarzenia - tutaj znajdziesz plakaty i grafiki stworzone na potrzeby wydarzeń Hackerspace Trójmiasto
 - naklejki - w tym miejscu umieszczamy grafiki, które zostały specjalnie przygotowane pod naklejki
 - inne - pozostałe grafiki, które nie kwalifikują się do powyższych kategorii - ilustracje, gify, schematy..
 
